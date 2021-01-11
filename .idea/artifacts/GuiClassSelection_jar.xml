@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GuiClassSelection:jar">
+    <output-path>$USER_HOME$/Desktop/Arcania/plugins</output-path>
+    <root id="archive" name="GuiClassSelection.jar">
+      <element id="module-output" name="Arcania" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spigot-1.16.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

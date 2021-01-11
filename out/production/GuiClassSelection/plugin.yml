@@ -1,0 +1,9 @@
+name: GuiClassSelection
+version: 3.0.2
+main: me.teamethereal.Main
+description: Class selection gui for team Ethereal's MMORPG
+author: Tactical_Shroom and Cleanerhook54
+api-version: 1.16
+commands:
+  Class:
+    description: gui for class selection

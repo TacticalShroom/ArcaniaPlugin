@@ -1,0 +1,15 @@
+name: GuiClassSelection
+version: 6.0.7
+main: me.teamethereal.Arcania.Main
+description: Class selection gui for Arcania
+author: TacticalShroom
+api-version: 1.16
+commands:
+  class:
+    description: gui for class selection
+  spawnblight:
+    description: spawns a custom blight zombie
+  excalibur:
+    description: gives the player excalibur
+  compendium:
+    description: gives the player a compendium
